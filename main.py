@@ -193,6 +193,7 @@ def TrackImages():
   #LBPH Recognizer is used to recognize our images against the dataset captured.
     recognizer = cv2.face.LBPHFaceRecognizer_create()  # cv2.createLBPHFaceRecognizer()
     recognizer.read("TrainingImageLabel\Trainer.yml")
+    #use the below line if haarcascade file is uploaded in the pycharm project only...any other location go with line 198(as located in my folder)
     #harcascadePath = "haarcascade_frontalface_default.xml"
     harcascadePath = 'C:\\Users\\DELL\\PycharmProjects\\FacialRecogniton\\venv\\Lib\\site-packages\\cv2\\data\\haarcascade_frontalface_default.xml'
     faceCascade = cv2.CascadeClassifier(harcascadePath);
