@@ -11,11 +11,11 @@ CSV, Numpy, Pandas, datetime etc. for other purposes.
 
 FEATURES:
 
-Easy to use with interactive GUI support.
-Notification box helps the user to understand if each step has been performed correctly or not.
-Updates CSV file for details of students.
-Creates a new CSV file everyday for attendance and marks attendance with proper ID, name, date and time.
-Also displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
+1.Easy to use with interactive GUI support.
+2.Notification box helps the user to understand if each step has been performed correctly or not.
+3.Updates CSV file for details of students.
+4.Creates a new CSV file everyday for attendance and marks attendance with proper ID, name, date and time.
+5.Also displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
 Packages to be installed:
 1.opencv-python
