@@ -96,7 +96,7 @@ def is_number(s):
 
     return False
 
-
+#Function to take images
 def TakeImages():
     Id = (txt.get())
     name = (txt2.get())
@@ -156,7 +156,7 @@ def TakeImages():
             res = "Enter Numeric Id"
             message.configure(text=res)
 
-
+#Function to train the model
 def TrainImages():
     recognizer = cv2.face_LBPHFaceRecognizer.create()
     faces, Id = getImagesAndLabels("TrainingImage")
@@ -190,6 +190,7 @@ def getImagesAndLabels(path):
 
 
 def TrackImages():
+  #LBPH Recognizer is used to recognize our images against the dataset captured.
     recognizer = cv2.face.LBPHFaceRecognizer_create()  # cv2.createLBPHFaceRecognizer()
     recognizer.read("TrainingImageLabel\Trainer.yml")
     #harcascadePath = "haarcascade_frontalface_default.xml"
