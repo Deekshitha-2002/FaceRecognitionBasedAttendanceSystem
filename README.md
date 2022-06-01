@@ -37,6 +37,21 @@ How to Start:
 6.Take attendance\
 7.Quit
 
+3 Step process:
+1. Image capture(Creating dataset)\
+2. Train the model\
+3. Take attendance
+
+![2022-06-01 (1)](https://user-images.githubusercontent.com/97438706/171450558-9296ac03-1415-4a1b-8d88-c18724ddb5a9.png)
+
+![2022-06-01 (3)](https://user-images.githubusercontent.com/97438706/171450830-b290d04a-7209-4152-b4ff-413f2e1f54dc.png)
+
+![2022-06-01 (4)](https://user-images.githubusercontent.com/97438706/171450876-28fe4b23-15d4-489b-ad8f-9735d21ed98d.png)
+
+![2022-06-01 (7)](https://user-images.githubusercontent.com/97438706/171450926-465f5922-abef-4445-b627-817fa3a6fcfe.png)
+
+![2022-06-01 (8)](https://user-images.githubusercontent.com/97438706/171450980-6f981776-c1b2-4b98-b98b-6eed20a41d0e.png)
+
 For more information:
 
 https://www.ijrte.org/wp-content/uploads/papers/v9i1/A2927059120.pdf
