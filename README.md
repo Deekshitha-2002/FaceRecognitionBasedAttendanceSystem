@@ -40,7 +40,7 @@ How to Start:
 3 Step process:
 1. Image capture(Creating dataset)\
 2. Train the model\
-3. Take attendance
+3. Take attendance\
 Step 1:
 ![2022-06-01 (1)](https://user-images.githubusercontent.com/97438706/171450558-9296ac03-1415-4a1b-8d88-c18724ddb5a9.png)
 
