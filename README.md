@@ -28,7 +28,7 @@ Packages to be installed:
 
 How to Start:
 
-1.In the pycharm project (named "FacialRecognition" in my case) , create directories named TrainingImageLabel, TrainingImage , Attendance , StudentDetails(inside it a  student.csv file with columns "Id" and "Name")
+1.In the pycharm project (named "FacialRecognition" in my case) , create directories named TrainingImageLabel, TrainingImage , Attendance , StudentDetails(inside it a  student.csv file with columns "Id" and "Name")\
 2.Open main.py
 3. Download the "haarcascade_frontalface_default.xml" file and provide its path.(if stored in remote location else just provide harcascadePath = "haarcascade_frontalface_default.xml" in TrackImages() function.)
 4.Run main.py
