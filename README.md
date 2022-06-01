@@ -24,7 +24,7 @@ Packages to be installed:
 4.opencv-contrib-python\
 5.Pillow\
 6.Pandas\
-7.csv\
+7.csv
 
 How to Start:
 
